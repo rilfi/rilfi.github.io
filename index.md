@@ -9,8 +9,6 @@ Hi, I'm Mohamed Rilfi — a software engineer passionate about emerging technolo
 
 ## 📝 Articles
 
-- [Understanding AI in 2025](./ai-2025.md)
-- [Blockchain Beyond Cryptocurrency](./blockchain.md)
-- [The Future of Quantum Computing](./quantum.md)
+- [How to Use AI Tools for Job Applications](./articles/ai-job-application-tools.md)
 
 Stay tuned for more updates!
