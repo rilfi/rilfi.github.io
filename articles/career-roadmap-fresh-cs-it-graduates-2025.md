@@ -24,7 +24,7 @@ Each role is assessed based on:
 
 ### 1. **Frontend Developer (React)**
 
-**AI Risk**: 🔸 Moderate
+**AI Risk**: 🔸 Moderate  
 **Future Potential**: ✅✅✅✅✅ (Very High)
 
 **Why It’s Safe**: Frontend work requires human judgment and creativity — especially with React, Next.js, and animations.
@@ -41,7 +41,7 @@ Each role is assessed based on:
 
 ### 2. **Backend Developer (Node.js, Python, etc.)**
 
-**AI Risk**: 🔸 Moderate
+**AI Risk**: 🔸 Moderate  
 **Future Potential**: ✅✅✅✅✅
 
 **Why It’s Solid**: Servers, logic, and databases still require human engineering — especially with business-specific rules and performance needs.
@@ -58,7 +58,7 @@ Each role is assessed based on:
 
 ### 3. **Full Stack Developer**
 
-**AI Risk**: 🟢 Low
+**AI Risk**: 🟢 Low  
 **Future Potential**: ✅✅✅✅✅
 
 **Why It’s Valuable**: Startups love developers who can do both frontend + backend. Long-term, it lets you specialize later.
@@ -74,7 +74,7 @@ Each role is assessed based on:
 
 ### 4. **DevOps Engineer**
 
-**AI Risk**: 🔸 Moderate
+**AI Risk**: 🔸 Moderate  
 **Future Potential**: ✅✅✅✅✅
 
 **Why It’s Hot**: Every company needs reliable software delivery and infrastructure. AI tools may assist, but can’t fully automate complex setups.
@@ -91,7 +91,7 @@ Each role is assessed based on:
 
 ### 5. **AI / ML Engineer (Intern Level)**
 
-**AI Risk**: 🟢 Very Low
+**AI Risk**: 🟢 Very Low  
 **Future Potential**: ✅✅✅✅✅
 
 **Why It’s Booming**: AI engineers build the models that power automation — it's a future-proof skill.
@@ -108,7 +108,7 @@ Each role is assessed based on:
 
 ### 6. **QA Engineer (Manual → Automation)**
 
-**AI Risk**: 🔺 High (Manual), 🔸 Moderate (Automation)
+**AI Risk**: 🔺 High (Manual), 🔸 Moderate (Automation)  
 **Future Potential**: ✅✅✅
 
 **Why It’s Shrinking**: Manual QA is being automated quickly. But if you upskill into automation or DevOps testing, you’re safe.
@@ -128,7 +128,7 @@ Each role is assessed based on:
 
 ### 7. **Data Analyst**
 
-**AI Risk**: 🔸 Moderate (depending on tool use)
+**AI Risk**: 🔸 Moderate (depending on tool use)  
 **Future Potential**: ✅✅✅✅
 
 **Why It’s Relevant**: Every company needs data insights. Analysts who know tools like Power BI or SQL are always in demand.
@@ -144,7 +144,7 @@ Each role is assessed based on:
 
 ### 8. **Data Engineer**
 
-**AI Risk**: 🟢 Low
+**AI Risk**: 🟢 Low  
 **Future Potential**: ✅✅✅✅✅
 
 **Why It’s Critical**: ML and data systems are only as good as the pipelines behind them.
@@ -164,7 +164,7 @@ Each role is assessed based on:
 
 ### 9. **UI/UX Designer (with Figma, HTML/CSS)**
 
-**AI Risk**: 🔸 Moderate
+**AI Risk**: 🔸 Moderate  
 **Future Potential**: ✅✅✅✅
 
 **Why It’s Valuable**: Tools like Figma are powerful, but real product design still needs human empathy and problem-solving.
@@ -180,7 +180,7 @@ Each role is assessed based on:
 
 ### 10. **Business Analyst / Scrum Master**
 
-**AI Risk**: 🔸 Moderate
+**AI Risk**: 🔸 Moderate  
 **Future Potential**: ✅✅✅✅
 
 **Why It’s Safe**: Human-centered communication and planning are still hard to automate.
@@ -196,7 +196,7 @@ Each role is assessed based on:
 
 ### 11. **Cybersecurity Analyst**
 
-**AI Risk**: 🟢 Very Low
+**AI Risk**: 🟢 Very Low  
 **Future Potential**: ✅✅✅✅✅
 
 **Why It’s Future-Proof**: Security threats evolve constantly. AI helps, but human decision-making is crucial.
@@ -212,7 +212,7 @@ Each role is assessed based on:
 
 ### 12. **Cloud Support / Cloud Engineer**
 
-**AI Risk**: 🔸 Moderate
+**AI Risk**: 🔸 Moderate  
 **Future Potential**: ✅✅✅✅✅
 
 **Why It’s Strategic**: Cloud powers AI and most modern apps. Mastering cloud tools opens many doors.
@@ -228,7 +228,7 @@ Each role is assessed based on:
 
 ### 13. **IT Support / Systems Admin**
 
-**AI Risk**: 🔺 High
+**AI Risk**: 🔺 High  
 **Future Potential**: ✅✅ (only if you transition to DevOps/Cloud)
 
 **Why It’s Limited**: Basic troubleshooting can be automated. Use this as a stepping stone.
@@ -244,7 +244,7 @@ Each role is assessed based on:
 
 ### 14. **Customer Support / Customer Success**
 
-**AI Risk**: 🔴 Very High
+**AI Risk**: 🔴 Very High  
 **Future Potential**: ❌ (unless upskilled)
 
 **Why It’s Fading**: AI chatbots are replacing level-1 support. However, human roles still exist in onboarding and tech-focused product guidance.
