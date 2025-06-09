@@ -22,5 +22,5 @@ Stay tuned for more updates!
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-XXXXXXXXXX');
+  gtag('config', 'G-QJW26HMXQ1');
 </script>
