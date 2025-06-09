@@ -11,5 +11,7 @@ Hi, I'm Mohamed Rilfi — a software engineer passionate about emerging technolo
 
 - [How to Use AI Tools for Job Applications](./articles/ai-job-application-tools.md)
 - [Career Roadmap for Fresh CS/IT Graduates in 2025](./articles/career-roadmap-fresh-cs-it-graduates-2025.md)
+- [Understanding Memory Ordering for Beginners](./articles/understanding-memory-ordering-for-beginners.md)
+
 
 Stay tuned for more updates!
