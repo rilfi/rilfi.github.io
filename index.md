@@ -14,13 +14,3 @@ Hi, I'm Mohamed Rilfi — a software engineer passionate about emerging technolo
 - [Understanding Memory Ordering for Beginners](./articles/understanding-memory-ordering-for-beginners.md)
 
 Stay tuned for more updates!
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-QJW26HMXQ1');
-</script>
