@@ -20,13 +20,18 @@ I enjoy designing scalable systems, exploring high-performance computing archite
 ## 📝 Articles
 
 ## 🧠 AI & Machine Learning
-- [Comong soon]
+- [Coming soon]
 
 ## 💻 CUDA & Parallel Computing
 - [Understanding Memory Ordering for Beginners](./articles/understanding-memory-ordering-for-beginners.md)
-- [CUDA Execution Levels: __global__, __device__, and __host__ Explained](./articles/cuda-execution-levels-explained.md)
-- [Where Does __device__ Code Run? A Look Into CUDA Core Types](./articles/where-device-code-runs-cuda-core-types.md)
-- [Essential CUDA Built-in Functions You Should Know](./articles/essential-cuda-built-in-functions.md)
+- [Understanding CUDA Execution Levels: __global__, __device__, and __host__](./articles/cuda-code-execution-levels.md)
+- [Exploring CUDA Device Functions and Core Types](./articles/exploring-cuda-device-functions-and-core-types.md)
+- [Common CUDA Built-in Functions You Should Know](./articles/common-cuda-built-in-functions.md)
+- [Mastering CUDA GPU Parallelism: Threads, Warps, Thread Blocks, and 3D Grids for Maximum Utilization](./articles/cuda-threads-blocks-grids-warps-3d-utilization-modern-gpus.md)
+- [GPU Thread Hierarchy: From Threads to Grids on A100 and H100](./articles/gpu-thread-hierarchy-threads-to-grids-a100-h100.md)
+- [Understanding NVIDIA SMs: Components and Purpose](./articles/understanding-nvidia-sms-components-and-purpose.md)
+- [Understanding GPU Architecture: Threads, Warps, Blocks, Grids, and SMs](./articles/understanding-gpu-architecture-threads-warps-blocks-grids-sms.md)
+- [100 Short Questions & Answers on GPU Architecture (Threads, Warps, Blocks, Grids, SMs, Memory)](./articles/gpu-architecture-100-qa-threads-warps-blocks-grids-sms-memory.md)
 
 ## 🌐 Blockchain & Security
 - [Coming soon]
@@ -34,7 +39,5 @@ I enjoy designing scalable systems, exploring high-performance computing archite
 ## 🎓 Career & Roadmaps
 - [Career Roadmap for Fresh CS/IT Graduates in 2025](./articles/career-roadmap-fresh-cs-it-graduates-2025.md)
 - [How to Use AI Tools for Job Applications](./articles/ai-job-application-tools.md)
-
-
 
 Stay tuned for more updates!
