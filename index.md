@@ -13,6 +13,6 @@ Hi, I'm Mohamed Rilfi — a software engineer passionate about emerging technolo
 - [Career Roadmap for Fresh CS/IT Graduates in 2025](./articles/career-roadmap-fresh-cs-it-graduates-2025.md)
 - [Understanding Memory Ordering for Beginners](./articles/understanding-memory-ordering-for-beginners.md)
 - [Understanding NVIDIA SMs: Components and Their Purpose](./articles/understanding-nvidia-sms-components-and-purpose.md)
-- [Understanding Execution Levels in CUDA: Host, Device, and Global Explained](./articles/understanding-cuda-execution-levels.md)
+- [Understanding Execution Levels in CUDA: Host, Device, and Global Explained](./articles/cuda-code-execution-levels.md)
 
 Stay tuned for more updates!
