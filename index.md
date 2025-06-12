@@ -1,7 +1,8 @@
 ---
+
 layout: default
 title: Welcome
----
+--------------
 
 # Welcome to My Tech Blog
 
@@ -9,8 +10,9 @@ Hi, I'm Mohamed Rilfi — a software engineer passionate about emerging technolo
 
 ## 📝 Articles
 
-- [How to Use AI Tools for Job Applications](./articles/ai-job-application-tools.md)
-- [Career Roadmap for Fresh CS/IT Graduates in 2025](./articles/career-roadmap-fresh-cs-it-graduates-2025.md)
-- [Understanding Memory Ordering for Beginners](./articles/understanding-memory-ordering-for-beginners.md)
+* [How to Use AI Tools for Job Applications](./articles/ai-job-application-tools.md)
+* [Career Roadmap for Fresh CS/IT Graduates in 2025](./articles/career-roadmap-fresh-cs-it-graduates-2025.md)
+* [Understanding Memory Ordering for Beginners](./articles/understanding-memory-ordering-for-beginners.md)
+* [Understanding NVIDIA SMs: Components and Their Purpose](./articles/understanding-nvidia-sms-components-and-purpose.md)
 
 Stay tuned for more updates!
