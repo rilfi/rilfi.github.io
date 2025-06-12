@@ -14,5 +14,7 @@ Hi, I'm Mohamed Rilfi — a software engineer passionate about emerging technolo
 - [Understanding Memory Ordering for Beginners](./articles/understanding-memory-ordering-for-beginners.md)
 - [Understanding NVIDIA SMs: Components and Their Purpose](./articles/understanding-nvidia-sms-components-and-purpose.md)
 - [Understanding Execution Levels in CUDA: Host, Device, and Global Explained](./articles/cuda-code-execution-levels.md)
+- [Exploring CUDA `__device__` Functions and Core Types on NVIDIA GPUs](./articles/exploring-cuda-device-functions-and-core-types.md)
+
 
 Stay tuned for more updates!
