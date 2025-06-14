@@ -1,0 +1,9 @@
+title: "Mohamed Rilfi's Tech Blog"
+description: "Exploring CUDA, AI, Security, and more"
+baseurl: "" # Leave empty unless site is in a subfolder
+url: "https://rilfi.github.io"
+
+collections:
+  articles:
+    output: true
+    permalink: /articles/:name
