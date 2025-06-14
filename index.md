@@ -21,14 +21,24 @@ I enjoy designing scalable systems, exploring high-performance computing archite
 
 ## 📝 Articles by Category
 
-{% assign categorized = site.articles | group_by: "category" | sort: "name" %}
+{% assign all_categories = "" | split: "" %}
+{% for article in site.articles %}
+  {% for cat in article.categories %}
+    {% unless all_categories contains cat %}
+      {% assign all_categories = all_categories | push: cat %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
 
-{% for category_group in categorized %}
-### 📂 {{ category_group.name | replace: '-', ' ' | capitalize }}
+{% assign sorted_categories = all_categories | sort %}
+
+{% for category in sorted_categories %}
+### 📂 {{ category }}
 <ul>
-  {% assign sorted_items = category_group.items | sort: "title" %}
-  {% for article in sorted_items %}
-    <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+  {% for article in site.articles %}
+    {% if article.categories contains category %}
+      <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
 {% endfor %}
